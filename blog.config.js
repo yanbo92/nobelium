@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: "yanbo92.site",
   author: 'yanbo92',
-  email: 'i@craigary.net',
+  email: 'yanbo92@139.com',
   link: 'https://yanbo92.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
