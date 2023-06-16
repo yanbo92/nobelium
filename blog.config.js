@@ -48,7 +48,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'https://github.com/yanbo92/yanbo92.github.io'
+      repo: 'yanbo92/yanbo92.github.io'
     },
     cusdisConfig: {
       appId: '', // data-app-id
